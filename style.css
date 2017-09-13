@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    padding: 0px; 
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+/* Center and scale the image nicely */
+    
+    
+	
+}
+
+input[type="text"], input[type="password"] {
+    outline: none; 
+    padding: 10px; 
+    display: block;
+    width: 300px;
+    border-radius: 3px;
+    border: 1px solid #eee; 
+    margin: 20px auto;
+	font-family: 'Roboto Mono', monospace;
+   
+    
+}
+
+
+
+input[type=submit]{
+    padding:10px;
+    color:#fff;
+	font-family: 'Roboto Mono', monospace;
+    background:#0A0A0A;
+    width:320px;
+    margin:20px auto;
+    margin-top:0px;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+
+input[type="submit"]:hover{
+    background: #623839;
+    
+}
+
+.header{
+    border-bottom: 1px solid #eee;
+    padding: 10px 0px;
+    width:100%;
+    text-align: center;
+    
+    
+}
+
+.header a{
+    text-decoration: none;
+    color: #333;
+	
+}
